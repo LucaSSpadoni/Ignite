@@ -1,0 +1,5 @@
+Primary - #E43A13
+Secondary - #C1BDB3
+Accent/border - #4E4D5C
+Light BG - #E7E7E7
+Dark BG - #202020
